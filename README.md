@@ -10,6 +10,7 @@ Case study on insecurity of retro gaming consoles and software
     * PC-Engine Mini
     * Sony Playstation Classic
     * Neo-Geo Mini
+    * Sega Astro-City Mini
     * ATGames Legends
     * MyArcade Data East Classics
 * Software
