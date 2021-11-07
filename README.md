@@ -13,5 +13,6 @@ Case study on insecurity of retro gaming consoles and software.  Primary goal is
     * Sega Astro-City Mini
     * ATGames Legends
     * MyArcade Data East Classics
+    * Arcade1Up Consoles
 * Software
     * Todo
