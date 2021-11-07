@@ -1,5 +1,5 @@
 # retroinsecurity
-Case study on insecurity of retro gaming consoles and software
+Case study on insecurity of retro gaming consoles and software.  Overall goal is to point out mistakes in security that lead to either loss of IP or ability to modify IP.
 
 # scope
 * Consoles
